@@ -33,7 +33,7 @@
 ## 🗄 Databases
 <div>    
   <div>  
-  <img width="50" title="MySQL" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/512px-MySQL.svg.png"/> &nbsp; 
+  <img width="50" title="MySQL" src="mysql.png"/> &nbsp; 
 </div>
 
 <br><br>
