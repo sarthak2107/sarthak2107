@@ -8,7 +8,44 @@
 - 📊 Data Analyst & AI Enthusiast, leveraging machine learning and AI to drive data-driven insights.
 - 🚀 Passionate about predictive analytics, automation, and business intelligence.
 - 🔥 Currently building AI-driven analytics solutions, leveraging machine learning and big data for smarter insights.
+
+  <br><br>
   
+## 💻 Programming Languages  
+<div>    
+  <div>  
+  <img width="50" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/> &nbsp;
+  <img width="50" title="SQL" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/>  
+</div>
+
+<br><br>
+
+## 📚 Libraries & Frameworks  
+<div>
+  <img width="50" title="Pandas" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"/> &nbsp;
+  <img width="50" title="NumPy" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"/> &nbsp;
+  <img width="50" title="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/> &nbsp;
+  <img width="50" title="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> 
+</div>  
+
+<br><br>
+
+## 🗄 Databases
+<div>    
+  <div>  
+  <img width="50" title="MySQL" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/512px-MySQL.svg.png"/> &nbsp; 
+</div>
+
+<br><br>
+
+## 📊 Visualization & BI 
+<div>
+  <img width="50" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/> &nbsp;
+  <img width="50" title="Tableau" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"/> 
+</div> 
+
+<br><br>
+
 
 ## 📬 **Let’s Connect!**  
 Feel free to reach out for collaborations, opportunities, or just a chat!  
@@ -17,8 +54,7 @@ Feel free to reach out for collaborations, opportunities, or just a chat!
 🌐 **GitHub**: [github.com/sarthak2107](https://github.com/sarthak2107)  
 🔗 **LinkedIn**: [linkedin.com/in/sarthak-salvi-a7b7bb259/](https://www.linkedin.com/in/sarthak-salvi-a7b7bb259/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak2107&show_icons=true&locale=en&layout=compact" alt="sarthak2107" /></p>
 
