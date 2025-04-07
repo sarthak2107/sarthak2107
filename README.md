@@ -55,7 +55,3 @@ Feel free to reach out for collaborations, opportunities, or just a chat!
 🔗 **LinkedIn**: [linkedin.com/in/sarthak-salvi-a7b7bb259/](https://www.linkedin.com/in/sarthak-salvi-a7b7bb259/)
 
 <br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak2107&show_icons=true&locale=en&layout=compact" alt="sarthak2107" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak2107&show_icons=true&locale=en" alt="sarthak2107" /></p>
