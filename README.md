@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Salvi</h1>
 <h3 align="center">A Data Science Enthusiast from Mumbai.</h3>
 
-![](https://komarev.com/ghpvc/?username=sarthak2107&color=green&style=plastic&label=VISITS!!)
+![](https://komarev.com/ghpvc/?username=sarthak2107&color=green&style=plastic&label=Visits!!)
 
 
 ### 🚀 About Me
